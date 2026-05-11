@@ -1,4 +1,4 @@
-import time
+ import time
 
 num = int(input("Enter time in seconds: "))
 
